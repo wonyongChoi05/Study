@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60f516f8-4661-4e35-b613-7db918b396a6" name="Changes" comment="빅데이터의 정착">
+      <change beforePath="$PROJECT_DIR$/빅데이터를_지탱하는_기술/ch1/1-1.빅데이터의_기초_지식.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/빅데이터를_지탱하는_기술/ch1/1-2.빅데이터_시대의_데이터_분석_기반.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/빅데이터를_지탱하는_기술/ch1/1-3.스크립트_언어에_의한_특별_분석과_데이터_프레임.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/빅데이터를_지탱하는_기술/ch2/2-1. 크로스 집계의 기본.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/빅데이터를_지탱하는_기술/ch2/2-2. 열지향 스토리지에 의한 고속화.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/빅데이터를_지탱하는_기술/ch2/2-3. 애드혹 분석과 시각화 도구.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/빅데이터를_지탱하는_기술/ch2/2-4. 데이터마트의 기본 구조.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/빅데이터를_지탱하는_기술/ch3/3-1. 대규모 분산 처리의 프레임워크.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectId" id="2ZpIJKnIki54LvgfzuCdyzf8MKT" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nyong/Desktop/study/TIL&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Study" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60f516f8-4661-4e35-b613-7db918b396a6" name="Changes" comment="빅데이터의 정착" />
+      <created>1703112520463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703112520463</updated>
+      <workItem from="1703112521521" duration="36000" />
+      <workItem from="1703249243189" duration="78000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="빅데이터의 정착" />
+    <option name="LAST_COMMIT_MESSAGE" value="빅데이터의 정착" />
+  </component>
+</project>

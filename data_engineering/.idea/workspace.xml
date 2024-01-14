@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19789ab9-4324-4a5a-b549-1204c3c1aba5" name="Changes" comment="CH04-3. 시계열 데이터의 최적화" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ZtlaQC5105rNoihCNGPAp5PzH4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/nyong/Desktop/study/TIL/data_engineering",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19789ab9-4324-4a5a-b549-1204c3c1aba5" name="Changes" comment="" />
+      <created>1703249318897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703249318897</updated>
+      <workItem from="1703249319904" duration="9310000" />
+    </task>
+    <task id="LOCAL-00001" summary="update architect">
+      <created>1703249369197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703249369197</updated>
+    </task>
+    <task id="LOCAL-00002" summary="CH03-2. 쿼리엔진">
+      <created>1703253106682</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703253106682</updated>
+    </task>
+    <task id="LOCAL-00003" summary="CH03-3. 데이터 마트의 구축">
+      <created>1703335908734</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703335908734</updated>
+    </task>
+    <task id="LOCAL-00004" summary="CH04-1. 벌크형과 스트리밍형의 데이터 수집">
+      <created>1703770975064</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703770975064</updated>
+    </task>
+    <task id="LOCAL-00005" summary="CH04-2. 성능과 신뢰성 메세지 배송의 트레이드 오프">
+      <created>1703771006386</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703771006386</updated>
+    </task>
+    <task id="LOCAL-00006" summary="CH04-3. 시계열 데이터의 최적화">
+      <created>1703771352283</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703771352283</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update architect" />
+    <MESSAGE value="CH03-2. 쿼리엔진" />
+    <MESSAGE value="CH03-3. 데이터 마트의 구축" />
+    <MESSAGE value="CH04-1. 벌크형과 스트리밍형의 데이터 수집" />
+    <MESSAGE value="CH04-2. 성능과 신뢰성 메세지 배송의 트레이드 오프" />
+    <MESSAGE value="CH04-3. 시계열 데이터의 최적화" />
+    <option name="LAST_COMMIT_MESSAGE" value="CH04-3. 시계열 데이터의 최적화" />
+  </component>
+</project>
